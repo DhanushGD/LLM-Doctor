@@ -21,11 +21,12 @@ This project demonstrates an **end-to-end pipeline** for fine-tuning the **TinyL
 
 | Tech | Purpose |
 |---|---|
-| [TinyLlama-1.1B](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0) | Base model |
-| [MedQuAD Dataset](https://www.nlm.nih.gov/databases/download/medquad.html) | Medical QA dataset |
-| [Unsloth](https://github.com/unslothai/unsloth) | Lora and QLoRA fine-tuning framework |
-| [QLoRA](https://arxiv.org/abs/2305.14314) | Parameter-efficient fine-tuning |
-| [Ollama](https://ollama.com) | Local model inference |
+| TinyLlama-1.1B | 4-bit model via unsloth |
+| MedQuAD Dataset from Kaggle | Medical QA dataset |
+| Unsloth | Lora and QLoRA fine-tuning framework |
+| LoRA | Parameter-efficient fine-tuning |
+| QLoRA | Parameter-efficient fine-tuning |
+| Ollama| Local model inference |
 
 ---
 
