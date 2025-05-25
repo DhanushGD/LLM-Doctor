@@ -65,11 +65,11 @@ FastLanguageModel.save_gguf(
   PARAMETERS
       num_predict 200
     ```
-  - Built with:
-    ```bash
-    ollama create tinyllama-medquad -f Modelfile
-    ollama run tinyllama-medquad
-      ```
+- Built with:
+  ```bash
+  ollama create tinyllama-medquad -f Modelfile
+  ollama run tinyllama-medquad
+    ```
 
 5️⃣ Evaluate Model
 - Measured perplexity and accuracy
