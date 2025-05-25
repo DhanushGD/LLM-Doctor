@@ -88,12 +88,15 @@ For new users, a Google Colab Notebook is provided in this repository to:
 ![image](https://github.com/user-attachments/assets/930781c2-b350-4104-a095-7e42e227e434)
 
 ✅ Before/After Model Outputs:
+
 ![image](https://github.com/user-attachments/assets/4ae1b0c8-1157-4b57-95d8-1af5e484ab80)
 
 ✅ Ollama Run Example:
+
 ![image](https://github.com/user-attachments/assets/0a176b2d-844c-4850-ba55-81485af37b15)
 
 ✅ Directory :
+
 ![image](https://github.com/user-attachments/assets/15bb6f9d-ec0d-4f82-9aa6-c5027beee994)
 
 ## Contributing
